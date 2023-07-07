@@ -1,0 +1,16 @@
+{
+    "name": "javascript2python",
+    "version": "1.0.9",
+    "description": "A package that provides Python-like print and range functions for JavaScript.",
+    "main": "index.js",
+    "keywords": [
+        "python",
+        "javascript"
+    ],
+    "author": "__ali_king_",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ali-kingX/JavaScript2Python.git"
+    }
+}
